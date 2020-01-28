@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">gerenContas</string>
+    <string name="salvar">Salvar</string>
+    <string name="Alterar">Alterar</string>
+    <string name="voltar">Voltar</string>
+    <string name="conta_obrigatorio">A conta é de preenchimento obrigatório!</string>
+    <string name="mes_obrigatorio">O mes é de preenchimento obrigatório!</string>
+    <string name="valor_obrigatorio">O valor é de preenchimento obrigatório!</string>
+    <string name="saldo_obrigatorio">O saldo é de preenchimento obrigatório!</string>
+    <string name="mes_sal_obrigatorio">O mes do saldo é de preenchimento obrigatório!</string>
+    <string name="valor_saldo_obrigatorio">O valor de saldo é de preenchimento obrigatório!</string>
+    <string name="conta_salva_sucesso">Conata salva com sucesso!</string>
+    <string name="Saldo_salvo_sucesso">Saldo salvo com sucesso!</string>
+</resources>
